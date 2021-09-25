@@ -1,5 +1,3 @@
-python=3.5
-tensorflow=1.8.0
-keras=2.1.6
-librosa (for audio loading and saving)
-ffmpeg (for video loading and saving)
+python==3.5
+tensorflow==1.15.2
+keras==2.1.6
